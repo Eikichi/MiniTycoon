@@ -5,8 +5,11 @@ Added collecting resources from buildings by Left Clicking on them in Collect Mo
 
 Controls:
 E - to toggle Build and Collect mode
+
 Left Mouse Button - to Build or Collect resources
+
 WASD - to move camera
+
 Mouse Wheel - to zoom 
 
 And there's a SettingsStruct in project's Content folder, which contains a few settings like Build Time, Build Cost and so on.
